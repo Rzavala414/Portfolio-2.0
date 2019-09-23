@@ -1,9 +1,29 @@
-#move-nav-bar {
-  display: flex !important;
-  justify-content: flex-end !important;
+
+body{
+    background: royalblue;
+}
+/* Contact page  */
+.contact-container-name{
+    width: 80px;
 }
 
 .image-size{
     height: 300px;
     width: 475px;
 }
+.container{
+    width:975px;
+    margin-top: 35px;
+}
+#message-height{
+    height: 200px;
+}
+
+
+#move-nav-bar {
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+
+
+/* Contact page  */
