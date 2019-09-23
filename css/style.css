@@ -1,6 +1,13 @@
 
 body{
     background: royalblue;
+    height: 500px;
+}
+footer{
+    background: grey;
+    padding: 15px 20px;
+    text-align: center;
+    margin-top: 18px
 }
 /* Contact page  */
 .contact-container-name{
@@ -25,5 +32,11 @@ body{
     justify-content: flex-end !important;
 }
 
-
 /* Contact page  */
+
+/* About Me Page */
+#about-me-card{
+    height: 411px;
+}
+
+/* About Me Page */
