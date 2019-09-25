@@ -5,10 +5,10 @@
 }
 
 body{
-    /* height: 500px; */
-    background-image: url(https://i.imgur.com/EdAGGFS.jpg) no-repeat center center fixed;
-    /* background-size: 1690px 800px; */
-    background-size: cover;
+    height: 500px;
+    background-image: url(https://i.imgur.com/EdAGGFS.jpg);
+    background-size: 1690px 800px;
+    /* background-size: cover; */
 }
 /* Contact page  */
 .contact-container-name{
@@ -51,4 +51,30 @@ footer{
    opacity: 0.5;
     
 }
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-linkedin {
+    
+    color:blue;
+  }
+  
+
+
+
+
+
+
+
+
 /* footer */
