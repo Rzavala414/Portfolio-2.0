@@ -1,8 +1,4 @@
-#navbar-settings {
-    opacity: 0.5; 
-    filter:(opacity=50);  
 
-}
 
 body{
     height: 500px;
@@ -48,7 +44,6 @@ footer{
     padding: 15px 20px;
     text-align: center;
     margin-top: 18px;
-   opacity: 0.5;
     
 }
 .fa {
